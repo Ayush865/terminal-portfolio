@@ -26,7 +26,7 @@ export const commandResponses = {
   projects:
     "Latest: Hired Fox Link (AI Interview Platform)\nStatus: Building next-gen distributed systems",
   resume:
-    "Opening resume...\n> Resume: /Ayush_Prakash_2026_SDE.pdf\n> Status: Available for download",
+    "Opening resume...\n> Resume: https://drive.google.com/file/d/1lUoczE1Qr4N7DiAh9QfCJuGWqP91vzFH/view?usp=sharing\n> Status: Available for download",
   contact:
     "ayushprakash.work@gmail.com | +91 8768353891 | github.com/Ayush865 | linkedin.com/in/ayush-prakash-2bb65122b | leetcode.com/itachi04",
   coffee:

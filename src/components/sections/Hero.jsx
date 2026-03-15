@@ -273,7 +273,7 @@ export default function Hero({ onTerminalToggle }) {
               </a>
 
               <a
-                href=""
+                href="https://drive.google.com/file/d/1lUoczE1Qr4N7DiAh9QfCJuGWqP91vzFH/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2 bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-sm rounded hover:bg-cyan-500/20 transition-all flex items-center gap-2"
